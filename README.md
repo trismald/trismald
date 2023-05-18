@@ -1,7 +1,5 @@
 ### Hi there 👋
-<img src="{img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white}" />
-
-
+img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white}
 https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white})
 https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
