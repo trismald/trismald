@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/bR5zjqD.jpeg)]
+![MasterHead](https://i.imgur.com/bR5zjqD.jpeg)
 <h1 align="center">Hi, I'm Christopher Maldonado</h1>
 <h4 align="center">I am a Data Analyst with advanced knowledge of Python, SQL, Power BI, Excel with experience of more than a year. I manage advanced libraries for data analysis and database in various software. I am enthusiastic about learning and my professional goal is to become a Data Scientist, I studied a degree in Mathematics so I have the tools of probability and statistics within my area of expertise</h4>
 
