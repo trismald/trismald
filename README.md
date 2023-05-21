@@ -1,10 +1,9 @@
-
-
-![MasterHead](https://i.imgur.com/bR5zjqD.jpeg)
 <h1 align="center">Hi, I'm Christopher Maldonado</h1>
 <h4 align="center">I am a Data Analyst with advanced knowledge of Python, SQL, Power BI, Excel. I manage advanced libraries for data analysis and database in various software. I am enthusiastic about learning and my professional goal is to become a Data Scientist.</h4>
 
 <br>
+
+![MasterHead](https://i.imgur.com/bR5zjqD.jpeg)
 
 - 🔭 I’m currently working on [Data Analyst European Soccer Leagues 2010 - 2023](https://github.com/trissmald/EuroSoccer1023)
 
@@ -13,6 +12,8 @@
 - 💬 Ask me about **Python, Power BI and SQL!**
 
 - 📫 How to reach me **triss.maldonado@outlook.com**
+
+- 💬 To work with me please review my [currímulum](https://raw.githubusercontent.com/trissmald/trissmald/main/CEMO_CV.jpg)
 
 <br>
 
