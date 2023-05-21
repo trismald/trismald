@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **triss.maldonado@outlook.com**
 
-- 💬 To work with me please review my [currímulum](https://raw.githubusercontent.com/trissmald/trissmald/main/CEMO_CV.jpg)
+- 💬 To work with me please review my [currímulum](https://github.com/trissmald/trissmald/blob/0f1df99dfd15ae3f414e5c141038a212d2e726fd/CEMO_CV.pdf)
 
 <br>
 
