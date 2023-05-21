@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **Python, Power BI and SQL!**
 
+- 📫 How to reach me **triss.maldonado@outlook.com**
+
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
