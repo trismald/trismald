@@ -40,5 +40,3 @@ Hi! I'm Tris, a data engineer passionate about transforming raw data into action
 - Web automation tools to simplify repetitive business workflows
 
 ---
-
-📫 How to reach me [mail](mailto:triss.maldonado@outlook.com)
