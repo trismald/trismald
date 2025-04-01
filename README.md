@@ -4,6 +4,12 @@ Hi! I'm Tris, a data engineer passionate about transforming raw data into action
 
 ---
 
+### 🚀 I’m currently working on:
+- A data pipeline project to assess road accident risk for insurance analytics
+- A personal finance tracking chatbot powered by NLP and Telegram Bot API
+- Web automation tools to simplify repetitive business workflows
+
+---
 
 ### 🧠 Tech & Tools I Use
 
@@ -31,12 +37,5 @@ Hi! I'm Tris, a data engineer passionate about transforming raw data into action
 #### 💻 Backend & APIs
 - FastAPI
 - PostgreSQL, MongoDB
-
----
-
-### 🚀 I’m currently working on:
-- A data pipeline project to assess road accident risk for insurance analytics
-- A personal finance tracking chatbot powered by NLP and Telegram Bot API
-- Web automation tools to simplify repetitive business workflows
 
 ---
